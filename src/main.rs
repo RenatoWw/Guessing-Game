@@ -29,16 +29,5 @@ fn main() {
                 break;
             }
         }
-        // Match pode ser substituido por Ifs. Exemplo abaixo.
-        // if numero > numero_gerado {
-        //     println!("Adivinhação muito alta.");
-        // }
-        // if numero < numero_gerado {
-        //     println!("Adivinhação muito baixa.");
-        // }
-        // if numero == numero_gerado{
-        //     println!("Você adivinhou!");
-        //     break;
-        // }
     }
 }
